@@ -1,25 +1,41 @@
-**Northwind Trading Case Study Analysis** <br>
-This repository contains a comprehensive analysis of Northwind Trading’s recent sales decline, focusing on understanding the root causes through both qualitative and
-quantitative data analysis. The case study examines key metrics, customer feedback, and root cause diagnostics to provide actionable insights.
+# Northwind Trading: Sales Decline Case Study
 
-**Repository Contents**<br>
-**Final Case Study Report** This document contains the complete analysis, including background, methodology, findings, and recommendations. It provides an in-depth look at the sales decline, user complaints, and the impact of recent website changes.
+This repository contains a comprehensive case study analyzing the sales decline at Northwind Trading, an eCommerce company, following a website redesign. The study provides both qualitative and quantitative insights to identify root causes and recommend solutions.
 
-**Customer Complaints Data** A dataset containing customer feedback used for qualitative analysis. This data includes categorized complaints, which were instrumental in identifying common issues affecting customer satisfaction, such as frustrations with the checkout process and the new website design.
+## **Key Highlights**
 
-**Sales Data** An Excel sheet with quantitative sales data for February and March. This file was used to assess the monthly decline in sales metrics, including total sales value, number of transactions, and average transaction values.
+1. **Problem Identification**:
+   - Sales dropped by 43% in March compared to February.
+   - Key customer complaints about the checkout process, new design, and slower website speed.
 
-**Analysis Summary**<br>
-Northwind Trading’s sales decline is attributed to changes in the website design and checkout process, where mandatory registration for data collection created friction for users. This repository documents the findings, with both qualitative and quantitative insights demonstrating the significant impact on user experience and overall sales performance.
+2. **Quantitative Analysis**:
+   - Comparison of sales performance metrics (sales value, transactions, average transaction value).
+   - 37% reduction in total transactions and 10% drop in website visits.
 
-**Key Findings**<br>
-**Quantitative Analysis:** A 43% decrease in total sales value and a 37% drop in total transactions were observed from February to March.
-Qualitative Analysis: Customer complaints indicated frustration with the new checkout requirements and complex design, with over half of the complaints focused on the checkout experience.
-**Root Cause: **The marketing team’s data collection requirement was identified as a primary factor contributing to user frustration and increased checkout abandonment.
+3. **Qualitative Analysis**:
+   - Analysis of customer feedback, highlighting issues with the mandatory registration during checkout.
 
-**Recommendations**<br>
-Simplify the checkout process by minimizing data collection requirements to reduce friction.
-Consider delaying data collection to a post-purchase step to improve the user experience and retain customers.
-Usage
+4. **Root Cause Analysis**:
+   - Identified mandatory registration for marketing data collection as the primary reason for increased cart abandonment.
 
+5. **Stakeholder Mapping**:
+   - Power-interest grid analysis of stakeholders, including customers, marketing team, and development team.
+
+6. **Recommendations**:
+   - Simplify the checkout process by minimizing or delaying data collection.
+   - Optimize website performance to improve user experience.
+
+## **Content Overview**
+
+- **Problem Identification and Stakeholder Analysis**:
+  Highlights the key issues and roles of various stakeholders.
+  
+- **Quantitative and Qualitative Analysis**:
+  Detailed performance metrics and customer feedback insights.
+
+- **Root Cause Diagnosis**:
+  Identifies the primary reasons behind the sales decline.
+
+- **Recommendations**:
+  Actionable steps to address the identified issues and improve sales.
 
